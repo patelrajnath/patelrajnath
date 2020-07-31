@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Conversational Question Generation. 
-- 🤔 I’m looking for help with Batched Beam decoding for Neural MT.
+- 🤔 I’m looking for help with optimized Beam Search decoding (Batched) for Neural MT.
